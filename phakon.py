@@ -1,1 +1,2 @@
 print *(phakon)
+print *(gip)
